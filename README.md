@@ -30,7 +30,7 @@ Larger projects are stored in their own repositories _(to be updated as I progre
 - [x] Prerequisites
 - [x] Git Basics
 - [x] HTML Foundations
-- [ ] CSS Foundations
+- [x] CSS Foundations
 - [ ] Flexbox
 - [ ] JavaScript Basics
 - [ ] Conclusion
