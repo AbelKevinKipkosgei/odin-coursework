@@ -2,14 +2,18 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 8px;
 }
 
 .logo {
-  font-size: 48px;
+  font-size: 40px;
   font-weight: 900;
   color: tomato;
   background: white;
   padding: 4px 32px;
+  margin: auto;
 }
 
 ul {
@@ -18,6 +22,7 @@ ul {
   display: flex;
   margin: 0;
   padding: 0;
+  gap: 8px;
 }
 
 a {
@@ -26,21 +31,4 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
-  margin: 8px;
-}
-
-.left-links {
-  display: inline-flex;
-  flex-flow: row wrap;
-  flex: auto;
-  justify-content: flex-start;
-  margin: auto;
-}
-
-.right-links {
-  display: inline-flex;
-  flex-flow: row wrap;
-  flex: auto;
-  justify-content: flex-end;
-  margin: auto;
 }
