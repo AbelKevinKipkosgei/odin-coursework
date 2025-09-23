@@ -1,6 +1,7 @@
 .header {
   font-family: monospace;
   background: papayawhip;
+  display: flex;
 }
 
 .logo {
@@ -29,14 +30,16 @@ ul {
   padding: 0;
 }
 
-.header {
-  display: flex;
-}
-
 .left-links {
-  display: flex;
+  display: inline-flex;
+  flex-flow: row wrap;
+  flex: auto;
+  justify-content: flex-start;
 }
 
 .right-links {
-  display: flex;
+  display: inline-flex;
+  flex-flow: row wrap;
+  flex: auto;
+  justify-content: flex-end;
 }
