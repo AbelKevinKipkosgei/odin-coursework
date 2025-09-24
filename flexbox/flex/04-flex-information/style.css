@@ -35,4 +35,5 @@ img {
   display: flex;
   flex-flow: column wrap;
   text-align: center;
+  align-items: center;
 }
