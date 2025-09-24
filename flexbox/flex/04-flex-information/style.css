@@ -34,4 +34,5 @@ img {
 .flower-item-container {
   display: flex;
   flex-flow: column wrap;
+  text-align: center;
 }
