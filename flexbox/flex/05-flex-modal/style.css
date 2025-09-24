@@ -78,4 +78,5 @@ button.cancel {
 
 .header-close {
   display: flex;
+  align-items: baseline;
 }
