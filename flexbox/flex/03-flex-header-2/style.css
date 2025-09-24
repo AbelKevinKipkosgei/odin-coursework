@@ -50,3 +50,11 @@ ul {
   margin: 0;
   padding: 0;
 }
+
+.left-items {
+  display: flex;
+}
+
+.right-items {
+  display: flex;
+}
