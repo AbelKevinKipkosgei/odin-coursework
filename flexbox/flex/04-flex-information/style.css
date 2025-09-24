@@ -29,3 +29,8 @@ img {
 .flower-container {
   display: flex;
 }
+
+.flower-item-container {
+  display: flex;
+  flex-flow: column wrap;
+}
