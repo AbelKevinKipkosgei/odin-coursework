@@ -71,6 +71,7 @@ button.cancel {
 
 .full-header {
   display: flex;
+  flex-shrink: 0;
 }
 
 .header-close {
