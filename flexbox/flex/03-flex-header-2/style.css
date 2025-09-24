@@ -29,6 +29,7 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
+  margin-right: 16px;
 }
 
 button {
@@ -50,6 +51,7 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  gap: 16px;
 }
 
 .left-items {
@@ -61,4 +63,5 @@ ul {
   display: flex;
   margin-left: auto;
   align-items: center;
+  gap: 16px;
 }
