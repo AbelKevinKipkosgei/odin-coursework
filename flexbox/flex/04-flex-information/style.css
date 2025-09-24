@@ -25,3 +25,7 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+.flower-container {
+  display: flex;
+}
