@@ -53,9 +53,11 @@ ul {
 
 .left-items {
   display: flex;
+  align-items: center;
 }
 
 .right-items {
   display: flex;
   margin-left: auto;
+  align-items: center;
 }
