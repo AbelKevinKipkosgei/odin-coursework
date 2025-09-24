@@ -28,6 +28,7 @@ img {
 
 .flower-container {
   display: flex;
+  justify-content: center;
 }
 
 .flower-item-container {
