@@ -69,15 +69,3 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
-
-.full-header {
-  display: flex;
-  flex-shrink: 0;
-}
-
-.header-close {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  flex: 1;
-}
