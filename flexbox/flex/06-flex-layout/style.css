@@ -44,10 +44,12 @@ ul {
 
 .left-links {
   display: flex;
+  gap: 16px;
 }
 
 .right-links {
   display: flex;
+  gap: 16px;
 }
 
 .footer {
