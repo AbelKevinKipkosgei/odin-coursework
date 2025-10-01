@@ -57,6 +57,10 @@ body {
   flex: 1;
 }
 
+li {
+  list-style-type: none;
+}
+
 a {
   text-decoration: none;
 }
