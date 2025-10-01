@@ -17,8 +17,10 @@ img {
 button {
   font-family: Roboto, sans-serif;
   border: none;
-  border-radius: 8px;
+  border-radius: 5px;
   background: #eee;
+  padding: 5px;
+  margin-top: 16px;
 }
 
 input {
