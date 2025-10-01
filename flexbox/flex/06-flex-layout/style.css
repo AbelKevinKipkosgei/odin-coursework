@@ -51,3 +51,10 @@ ul {
   display: flex;
   justify-content: space-between;
 }
+
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-flow: column;
+}
