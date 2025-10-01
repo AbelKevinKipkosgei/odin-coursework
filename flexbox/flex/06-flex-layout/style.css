@@ -43,3 +43,8 @@ ul {
 .right-links {
   display: flex;
 }
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+}
