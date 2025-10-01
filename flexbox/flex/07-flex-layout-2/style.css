@@ -17,6 +17,9 @@ body {
 }
 
 .footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   height: 72px;
   background: #eee;
   color: darkmagenta;
@@ -47,6 +50,6 @@ body {
   gap: 20px 20px;
 }
 
-.main-container {
+.content-container {
   display: flex;
 }
