@@ -33,6 +33,7 @@ input {
 .header {
   display: flex;
   justify-content: space-between;
+  padding: 10px;
 }
 
 ul {
@@ -52,6 +53,7 @@ ul {
 .footer {
   display: flex;
   justify-content: space-between;
+  padding: 10px;
 }
 
 .content {
