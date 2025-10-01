@@ -39,3 +39,7 @@ ul {
 .left-links {
   display: flex;
 }
+
+.right-links {
+  display: flex;
+}
