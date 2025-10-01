@@ -29,8 +29,8 @@ body {
 
 .sidebar {
   display: flex;
-  flex-direction: column;
-  width: 250px;
+  width: 300px;
+  padding: 16px;
   background: royalblue;
   box-sizing: border-box;
   flex: 1 0 auto;
@@ -41,14 +41,14 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0, 0, 0, 0.06);
   border-radius: 4px;
-  width: 300px;
+  width: 250px;
 }
 
 .content {
   display: flex;
   flex-flow: wrap row;
   justify-content: center;
-  padding: 20px;
+  padding: 48px;
   gap: 20px 20px;
 }
 
@@ -69,4 +69,12 @@ a {
 
 a:hover {
   text-decoration: underline;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 0;
+  margin: 0;
 }
