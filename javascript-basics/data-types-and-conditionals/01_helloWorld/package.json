@@ -1,0 +1,15 @@
+{
+  "name": "01_helloworld",
+  "version": "1.0.0",
+  "description": "The main purpose of this exercise is to walk you through the process of running the tests and make sure everything is set up and running correctly.",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
