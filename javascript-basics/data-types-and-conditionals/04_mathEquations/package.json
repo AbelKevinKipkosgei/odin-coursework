@@ -1,0 +1,15 @@
+{
+  "name": "04_mathequations",
+  "version": "1.0.0",
+  "description": "Replace the strings to the right of the `=` with the expression they describe. Do **not** manually enter the answers to the equation.",
+  "main": "mathEquations.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
