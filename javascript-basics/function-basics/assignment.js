@@ -9,9 +9,13 @@ const multiply = (number1, number2) => {
 console.log(multiply(82, 10));
 
 // 3
-const titleCase = (word) => {
+const capitalize = (word) => {
   let titleCaseWord =
     word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
   return titleCaseWord;
 };
-console.log(titleCase("aBcD"));
+console.log(capitalize("aBcD"));
+
+// 4
+const lastLetter = (anyWord) => anyWord.slice(-1);
+console.log(lastLetter("supper"));
