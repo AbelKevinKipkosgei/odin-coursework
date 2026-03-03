@@ -25,5 +25,9 @@ document.body.append(mainDiv);
 const heading1 = document.createElement("h1");
 heading1.textContent = "I'm in a div";
 
+// Create p element in div
+const secondParagraph = document.createElement("p");
+secondParagraph.textContent = "ME TOO!";
+
 // Append to the div
-mainDiv.append(heading1);
+mainDiv.append(heading1, secondParagraph);
